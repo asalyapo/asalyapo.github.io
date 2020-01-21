@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Curriculum Vitae"
-    url: /CV/
+    url: /cv/
 
   - title: "Research"
-    url: /research/    
+    url: /talks/    
 
   - title: "About Me"
-    url: /aboutme/    
+    url: /year-archive/    
